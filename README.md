@@ -13,7 +13,7 @@ Você encontrará neste repositório:
 - **Códigos-fonte**: Exemplos práticos implementados para ilustrar os conceitos discutidos nos artigos.
 
 ##Link dos Artigos
-- **Artigo: Explorando Objetos, Métodos e Classes em JavaScript: Um Guia Essencial**: [Artigo_1](https://www.linkedin.com/feed/update/urn:li:activity:7227318317286334466/)
+- **Artigo**: [Explorando Objetos, Métodos e Classes em JavaScript: Um Guia Essencial](https://www.linkedin.com/feed/update/urn:li:activity:7227318317286334466/)
 
 ## Contribuições
 
@@ -24,7 +24,7 @@ Este repositório é de uso livre, e todos são bem-vindos a sugerir melhorias, 
 Se você tiver dúvidas, sugestões ou simplesmente quiser trocar uma ideia, sinta-se à vontade para entrar em contato:
 
 - **Email**: [rbbragaengenharia@gmail.com](mailto:rbbragaengenharia@gmail.com)
-- **LinkedIn**: [Roberto_Braga](https://www.linkedin.com/in/roberto-braga-5b3228252/)
+- **LinkedIn**: [Roberto Braga](https://www.linkedin.com/in/roberto-braga-5b3228252/)
 
 ---
 
